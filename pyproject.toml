@@ -8,15 +8,15 @@ dependencies = [
     "altair>=5.5,<7",
     "numpy>=1.26,<3",
     "pandas>=2,<4",
-    "PyNiteFEA==3.2.1",
+    "PyNiteFEA[pyvista]==3.2.1",
     "scipy>=1.12,<2",
     "streamlit>=1.67,<2",
 ]
 
-[project.optional-dependencies]
-rendering = [
-    "pynitefea[pyvista]==3.2.1",
-]
+# [project.optional-dependencies]
+# rendering = [
+#     "pynitefea[pyvista]==3.2.1",
+# ]
 
 # This is an executable research workspace rather than a publishable library.
 # The inherited scripts use relative data paths; preserving that layout

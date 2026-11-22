@@ -2301,14 +2301,9 @@ dependencies = [
     { name = "altair" },
     { name = "numpy" },
     { name = "pandas" },
-    { name = "pynitefea" },
+    { name = "pynitefea", extra = ["pyvista"] },
     { name = "scipy" },
     { name = "streamlit" },
-]
-
-[package.optional-dependencies]
-rendering = [
-    { name = "pynitefea", extra = ["pyvista"] },
 ]
 
 [package.metadata]
@@ -2316,12 +2311,10 @@ requires-dist = [
     { name = "altair", specifier = ">=5.5,<7" },
     { name = "numpy", specifier = ">=1.26,<3" },
     { name = "pandas", specifier = ">=2,<4" },
-    { name = "pynitefea", specifier = "==3.2.1" },
-    { name = "pynitefea", extras = ["pyvista"], marker = "extra == 'rendering'", specifier = "==3.2.1" },
+    { name = "pynitefea", extras = ["pyvista"], specifier = "==3.2.1" },
     { name = "scipy", specifier = ">=1.12,<2" },
     { name = "streamlit", specifier = ">=1.67,<2" },
 ]
-provides-extras = ["rendering"]
 
 [[package]]
 name = "soupsieve"
