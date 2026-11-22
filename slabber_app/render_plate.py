@@ -4,10 +4,12 @@ import argparse
 from pathlib import Path
 
 from scripts.run_pynite_ssss import COMBO, LX, solve_rect_model
+from slabber_app.field_colors import FIELD_COLORS, field_extent
 
 
 def render_plate(case: str, ratio: float, nx: int, poisson: float, result: str, output: Path) -> float:
     import pyvista
+    from matplotlib.colors import LinearSegmentedColormap
     from Pynite.Rendering import Renderer
 
     pyvista.OFF_SCREEN = True
@@ -29,21 +31,35 @@ def render_plate(case: str, ratio: float, nx: int, poisson: float, result: str, 
     renderer.show_labels = False
     renderer.deformed_shape = deformed
     renderer.deformed_scale = scale
-    renderer.color_map = None if deformed else result
-    renderer.scalar_bar = not deformed
-    renderer.scalar_bar_text_size = 16
+    renderer.color_map = "dz" if deformed else result
+    renderer.scalar_bar = True
 
-    def set_view(plotter: pyvista.Plotter) -> None:
+    try:
+        renderer.update(reset_camera=False, off_screen=True)
+        plotter = renderer.plotter
+        contours = plotter.mesh.point_data["Contours"]
         if deformed:
+            # PyNite provides local z displacement in metres, positive upward.
+            contours *= -1000
             plotter.view_isometric()
+            title = "Vertical deflection (mm)"
         else:
             plotter.view_xy()
-            plotter.scalar_bar.SetTitle(f"{result} (kN m/m)")
+            title = f"{result} (kN m/m)"
+        extent = field_extent(float(contours.min()), float(contours.max()))
+        cmap = LinearSegmentedColormap.from_list("slabber", FIELD_COLORS, N=257)
+        mapper = plotter.mapper
+        mapper.lookup_table.apply_cmap(cmap, n_values=cmap.N)
+        plotter.update_scalar_bar_range((-extent, extent))
+        plotter.scalar_bar.SetTitle(title)
+        plotter.scalar_bar.SetPosition(0.2, 0.025)
+        for actor in plotter.actors.values():
+            if isinstance(actor, pyvista.Actor) and actor.mapper is mapper:
+                actor.prop.lighting = False
         plotter.enable_parallel_projection()
-
-    renderer.post_update_callbacks.append(set_view)
-    try:
-        renderer.screenshot(str(output), interact=False, reset_camera=True)
+        plotter.reset_camera()
+        plotter.camera.zoom(0.86)  # Leave room for the horizontal legend below the slab.
+        plotter.screenshot(str(output))
     finally:
         renderer.plotter.close()
     return scale

@@ -15,6 +15,7 @@ from Pynite import FEModel3D
 from czerny_dataset.pynite_czerny_benchmark import edge_codes
 from scripts.run_pynite_ssss import COMBO, LX, ROOT, center_displacement
 from slabber_app.charts import EDGE_COLORS, EDGE_LABELS
+from slabber_app.field_colors import FIELD_COLORS, field_extent
 
 
 RESULT_LABELS = {"Mx": "Mₓ", "My": "Mᵧ", "Mxy": "Mₓᵧ", "deflection": "Vertical deflection"}
@@ -47,12 +48,8 @@ def field_map(cells, result, ly, supports):
     label = RESULT_LABELS[result]
     units = "mm" if result == "deflection" else "kN·m/m"
     values = [cell[result] for cell in cells]
-    low, high = min(values), max(values)
-    extent = max(abs(low), abs(high), 1e-12)
-    if result == "deflection" and low >= 0:
-        colors = alt.Scale(domain=[0, extent], range=["#F0F7F7", "#086861"])
-    else:
-        colors = alt.Scale(domain=[-extent, 0, extent], range=["#335E9F", "#F4F5F6", "#B15324"])
+    extent = field_extent(min(values), max(values))
+    colors = alt.Scale(domain=[-extent, 0, extent], range=list(FIELD_COLORS), interpolate="rgb", nice=False)
 
     x = alt.X("x0:Q", title="x (m)", scale=alt.Scale(domain=[0, LX], nice=False),
               axis=alt.Axis(grid=False, tickCount=5))
@@ -142,6 +139,6 @@ def show_field_results(case, ratio, nx, ny, poisson, cells, key):
                     LOGGER.warning("PyNite render failed for %s at %s (%s): %s", case, ratio, result, (detail or "")[-2500:])
                     st.warning("PyNite could not render this figure. The interactive map is available.")
                     return
-                caption = (f"PyNite deformed shape · Displacements exaggerated {scale:.1f}×"
+                caption = (f"PyNite deformed shape · Deflection in mm, positive downward · Displacements exaggerated {scale:.1f}×"
                            if result == "deflection" else f"PyNite {label} contour · Nodally averaged · kN·m/m")
                 st.image(png, caption=caption, width=740, output_format="PNG", alt=f"{caption} for {case}")

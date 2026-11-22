@@ -6,7 +6,7 @@ from pathlib import Path
 
 import streamlit as st
 
-from czerny_dataset.czerny import load_table
+from czerny_dataset.czerny import THREE_EDGE_CSV, load_table
 from czerny_dataset.pynite_czerny_benchmark import edge_codes, nearest_odd
 from scripts.run_four_edge_benchmark import (
     FD_REFINEMENT, FEM_REFINEMENT, FOUR_EDGE_RATIOS, comparison_run, czerny_samples, fd_mesh,
@@ -29,7 +29,7 @@ class SlabFamily:
     page_offset: int
     cases: dict[str, str]
     default_case: str
-    default_ratios: tuple[float, ...]
+    ratios: tuple[float, ...]
 
 
 FOUR_EDGE = SlabFamily(
@@ -59,7 +59,7 @@ THREE_EDGE = SlabFamily(
         "H21_ADJ_FIXED": "Fixed side and rear edge",
         "H22_ALL_FIXED": "Three fixed edges",
     },
-    "H17_SSS", (0.5, 1.0, 1.4),
+    "H17_SSS", (0.25, 0.4, 0.5, 0.6, 0.8, 1.0, 1.2, 1.4, 1.6, 1.8, 2.0),
 )
 QUANTITY_LABELS = {
     "mx_mid": "Mₓ at center",
@@ -268,8 +268,8 @@ def render_dashboard(family):
                               key=f"{family.slug}_case")
     case_runs = {run["ratio_ly_lx"]: run for run in report["results"] if run["case_id"] == case} if report else {}
     four_edge = family.slug == "four_edge"
-    ratios = list(family.default_ratios) if four_edge else sorted(case_runs) or list(family.default_ratios)
-    ratio = aspect.selectbox("Aspect ratio  lᵧ/lₓ", ratios, index=ratios.index(1.0) if 1.0 in ratios else 0,
+    ratios = family.ratios
+    ratio = aspect.selectbox("Aspect ratio  lᵧ/lₓ", ratios, index=ratios.index(1.0),
                              format_func=lambda item: f"{item:.2f}", key=f"{family.slug}_ratio")
     run = case_runs.get(ratio)
     inputs = report["inputs"] if report and run else {}
@@ -287,8 +287,14 @@ def render_dashboard(family):
     if live_comparison:
         st.caption("Calculated on demand for this ratio using the final two PyNite and finite-difference meshes.")
     elif run is None:
-        st.info("Generate the saved comparison results for this page.", title="Benchmark data unavailable")
-        st.code(f"uv run --locked python -m scripts.run_{family.slug}_benchmark", language="bash")
+        hahn_table = load_table(THREE_EDGE_CSV)
+        last_ratio = max(rows[-1]["ratio_ly_lx"] for (case_id, _), rows in hahn_table.items() if case_id == case)
+        if ratio > last_ratio:
+            st.caption(f"PyNite results calculated on demand. Hahn tabulates this case through lᵧ/lₓ = {last_ratio:.2f}.")
+        else:
+            st.caption("PyNite results calculated on demand. A saved Hahn and Rayleigh–Ritz comparison is unavailable for this selection.")
+            if report is None:
+                st.code("uv run --locked python -m scripts.run_three_edge_benchmark", language="bash")
 
     sections, cells, live_run = plot_data(case, ratio, nx, poisson, compare_four_edge=live_comparison)
     run = run or live_run

@@ -42,17 +42,20 @@ centerline moment diagrams, and tables for physical values, normalized
 coefficients and mesh refinement. The four-edge page offers all 21
 printed ratios from 1.00 through 2.00 in steps of 0.05. It uses saved
 results when available and calculates any other selection on demand.
-The three-edge page uses the saved Hahn benchmark ratios. If its report
-is absent, the page shows its regeneration command and draws the PyNite
-diagrams.
+The three-edge page offers `ly/lx` ratios of 0.25, 0.40, 0.50, 0.60,
+0.80, 1.00, 1.20, 1.40, 1.60, 1.80 and 2.00 for every case. The explorer
+shows saved Hahn and Rayleigh–Ritz comparisons where available and computes
+PyNite fields for every selection. H17, H18 and H22 have printed Hahn
+values through 1.50.
 
 Both pages also show full-slab maps of `Mx`, `My`, `Mxy` and vertical
 deflection. The interactive maps show signed values at element centers,
 with deflection in millimetres, positive downward. The **PyNite render** tab
 uses PyVista/VTK to draw nodally averaged moment contours and the exaggerated
-deformed shape. On Streamlit Community Cloud, the root `packages.txt` installs
-the Debian libraries for off-screen rendering via EGL, with OSMesa as a
-software fallback.
+deformed shape colored by nodal deflection. Both tabs use blue for negative
+values, white for zero and red-orange for positive values. On Streamlit
+Community Cloud, the root `packages.txt` installs the Debian libraries for
+off-screen rendering via EGL, with OSMesa as a software fallback.
 
 ### First table calculation
 

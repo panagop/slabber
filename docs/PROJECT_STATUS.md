@@ -60,6 +60,19 @@ references are finite differences and Rayleigh–Ritz, respectively.
   runtime libraries from `packages.txt`.
   Verification covered both pages with Streamlit 1.67.0 and native PNGs
   with PyVista 0.49.2 and VTK 9.7.2. All 31 numerical tests passed.
+- The three-edge explorer uses the 11 selectable ratios listed in the
+  [README](../README.md#launch-the-slab-explorer) for all six Hahn cases.
+  Selections without saved comparisons use direct PyNite solves. Hahn's
+  source range ends at 1.50 for H17, H18 and H22. The saved comparison
+  grid is 0.50, 1.00 and 1.40. Streamlit checks exercised both endpoint
+  selections for every case on 31 × 9 and 31 × 63 meshes.
+- The interactive maps and native renders share a blue, white and
+  red-orange scale centered at zero. The native deformed shape uses
+  nodal vertical displacement in mm, positive downward. The local check
+  used Streamlit 1.67.0, PyNiteFEA 3.2.1, PyVista 0.49.2 and VTK 9.7.2.
+  Native PNGs were checked for `Mx`, `My`, `Mxy` and deflection on H21
+  at 1.60 (11 × 19 elements) and for `Mx` on H17 at 2.00 (31 × 63).
+  All 33 project tests and the CSV integrity check passed.
 
 ## PyNite Rect SSSS pilot
 
