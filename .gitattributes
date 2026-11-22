@@ -1,0 +1,7 @@
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+# Preserve the byte-for-byte research files in the inherited checksum manifest.
+czerny_dataset/*.csv -text !eol whitespace=cr-at-eol

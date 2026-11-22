@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Czerny: table SSSS 4x6",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/czerny_dataset/czerny.py",
+      "args": ["--case", "SSSS", "--lx", "4", "--ly", "6", "--load", "10", "--E", "33000000", "--thickness", "0.18"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Czerny: FD reference",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/czerny_dataset/finite_difference_reference.py",
+      "args": ["--ratios", "1", "1.5", "2", "--refinements", "8", "16", "32", "--output", "${workspaceFolder}/results/fd_debug.csv"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Slabber: PyNite SSSS pilot",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "scripts.run_pynite_ssss",
+      "args": ["--output", "${workspaceFolder}/results/pynite_ssss_debug.json"],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "uv: sync Slabber dependencies",
+      "type": "shell",
+      "command": "uv sync",
+      "problemMatcher": []
+    },
+    {
+      "label": "uv: unit tests",
+      "type": "shell",
+      "command": "uv run python -m unittest discover -s czerny_dataset -p test_*.py -v",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "uv: verify CSV inventory",
+      "type": "shell",
+      "command": "uv run python scripts/verify_data.py",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "uv: finite difference 3 ratios",
+      "type": "shell",
+      "command": "uv run python czerny_dataset/finite_difference_reference.py --ratios 1 1.5 2 --refinements 8 16 32 64 --output results/fd_recheck.csv",
+      "problemMatcher": []
+    }
+  ]
+}

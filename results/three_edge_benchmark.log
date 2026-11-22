@@ -1,0 +1,128 @@
+{'python': '3.12.12', 'platform': 'Windows-10-10.0.19045-SP0', 'PyNiteFEA': '3.2.1', 'numpy': '2.5.5', 'scipy': '1.18.1'}
+H17_SSS ly/lx=0.50 edges=S,FREE,S,S
+  PyNite 7x5 signed residual -1.776e-13%
+  PyNite 11x7 signed residual +1.632e-11%
+  PyNite 15x9 signed residual -3.272e-11%
+  PyNite 21x11 signed residual -4.089e-11%
+  PyNite 31x17 signed residual -1.202e-09%
+  Ritz degrees [8, 14, 22]
+H17_SSS ly/lx=1.00 edges=S,FREE,S,S
+  PyNite 7x7 signed residual +1.172e-12%
+  PyNite 11x11 signed residual -5.731e-11%
+  PyNite 15x15 signed residual +6.038e-11%
+  PyNite 21x21 signed residual +2.326e-10%
+  PyNite 31x31 signed residual +7.386e-10%
+  Ritz degrees [8, 14, 22]
+H17_SSS ly/lx=1.40 edges=S,FREE,S,S
+  PyNite 7x11 signed residual +3.553e-13%
+  PyNite 11x15 signed residual -1.889e-11%
+  PyNite 15x21 signed residual +6.533e-11%
+  PyNite 21x29 signed residual +3.173e-10%
+  PyNite 31x43 signed residual -3.840e-10%
+  Ritz degrees [8, 14, 22]
+H18_REAR_FIXED ly/lx=0.50 edges=S,FREE,S,F
+  PyNite 7x5 signed residual +1.297e-12%
+  PyNite 11x7 signed residual +1.918e-12%
+  PyNite 15x9 signed residual -3.004e-11%
+  PyNite 21x11 signed residual -3.464e-12%
+  PyNite 31x17 signed residual -4.605e-10%
+  Ritz degrees [8, 14, 22]
+H18_REAR_FIXED ly/lx=1.00 edges=S,FREE,S,F
+  PyNite 7x7 signed residual -5.329e-13%
+  PyNite 11x11 signed residual -3.801e-11%
+  PyNite 15x15 signed residual +4.114e-11%
+  PyNite 21x21 signed residual +1.627e-10%
+  PyNite 31x31 signed residual +8.674e-10%
+  Ritz degrees [8, 14, 22]
+H18_REAR_FIXED ly/lx=1.40 edges=S,FREE,S,F
+  PyNite 7x11 signed residual +4.695e-13%
+  PyNite 11x15 signed residual -2.072e-11%
+  PyNite 15x21 signed residual +8.409e-11%
+  PyNite 21x29 signed residual +2.881e-10%
+  PyNite 31x43 signed residual -4.933e-10%
+  Ritz degrees [8, 14, 22]
+H19_ONE_SIDE_FIXED ly/lx=0.50 edges=F,FREE,S,S
+  PyNite 7x5 signed residual +2.132e-13%
+  PyNite 11x7 signed residual +7.123e-12%
+  PyNite 15x9 signed residual -3.332e-11%
+  PyNite 21x11 signed residual -3.650e-11%
+  PyNite 31x17 signed residual -6.706e-10%
+  Ritz degrees [8, 14, 22]
+H19_ONE_SIDE_FIXED ly/lx=1.00 edges=F,FREE,S,S
+  PyNite 7x7 signed residual +5.684e-13%
+  PyNite 11x11 signed residual -2.478e-11%
+  PyNite 15x15 signed residual +2.270e-11%
+  PyNite 21x21 signed residual +1.356e-10%
+  PyNite 31x31 signed residual +4.570e-10%
+  Ritz degrees [8, 14, 22]
+H19_ONE_SIDE_FIXED ly/lx=1.40 edges=F,FREE,S,S
+  PyNite 7x11 signed residual -1.903e-13%
+  PyNite 11x15 signed residual -1.009e-11%
+  PyNite 15x21 signed residual +4.468e-11%
+  PyNite 21x29 signed residual +1.162e-10%
+  PyNite 31x43 signed residual -2.345e-10%
+  Ritz degrees [8, 14, 22]
+H20_BOTH_SIDES_FIXED ly/lx=0.50 edges=F,FREE,F,S
+  PyNite 7x5 signed residual -1.261e-12%
+  PyNite 11x7 signed residual +7.336e-12%
+  PyNite 15x9 signed residual -1.712e-11%
+  PyNite 21x11 signed residual -1.304e-11%
+  PyNite 31x17 signed residual -3.742e-10%
+  Ritz degrees [8, 14, 22]
+H20_BOTH_SIDES_FIXED ly/lx=1.00 edges=F,FREE,F,S
+  PyNite 7x7 signed residual +2.842e-13%
+  PyNite 11x11 signed residual -8.900e-12%
+  PyNite 15x15 signed residual +1.171e-11%
+  PyNite 21x21 signed residual +6.906e-11%
+  PyNite 31x31 signed residual +1.859e-10%
+  Ritz degrees [8, 14, 22]
+H20_BOTH_SIDES_FIXED ly/lx=1.40 edges=F,FREE,F,S
+  PyNite 7x11 signed residual -2.157e-13%
+  PyNite 11x15 signed residual -3.045e-12%
+  PyNite 15x21 signed residual +1.704e-11%
+  PyNite 21x29 signed residual +6.482e-11%
+  PyNite 31x43 signed residual -9.827e-11%
+  Ritz degrees [8, 14, 22]
+H21_ADJ_FIXED ly/lx=0.50 edges=F,FREE,S,F
+  PyNite 7x5 signed residual +2.842e-13%
+  PyNite 11x7 signed residual +9.059e-13%
+  PyNite 15x9 signed residual -2.306e-11%
+  PyNite 21x11 signed residual -4.796e-12%
+  PyNite 31x17 signed residual -3.286e-10%
+  Ritz degrees [8, 14, 22]
+H21_ADJ_FIXED ly/lx=1.00 edges=F,FREE,S,F
+  PyNite 7x7 signed residual -7.994e-13%
+  PyNite 11x11 signed residual -2.007e-11%
+  PyNite 15x15 signed residual +2.659e-11%
+  PyNite 21x21 signed residual +9.216e-11%
+  PyNite 31x31 signed residual +4.489e-10%
+  Ritz degrees [8, 14, 22]
+H21_ADJ_FIXED ly/lx=1.40 edges=F,FREE,S,F
+  PyNite 7x11 signed residual +1.193e-12%
+  PyNite 11x15 signed residual -1.199e-11%
+  PyNite 15x21 signed residual +2.177e-11%
+  PyNite 21x29 signed residual +9.756e-11%
+  PyNite 31x43 signed residual -2.286e-10%
+  Ritz degrees [8, 14, 22]
+H22_ALL_FIXED ly/lx=0.50 edges=F,FREE,F,F
+  PyNite 7x5 signed residual +3.730e-13%
+  PyNite 11x7 signed residual +1.066e-12%
+  PyNite 15x9 signed residual -1.359e-11%
+  PyNite 21x11 signed residual -8.527e-12%
+  PyNite 31x17 signed residual -2.326e-10%
+  Ritz degrees [8, 14, 22]
+H22_ALL_FIXED ly/lx=1.00 edges=F,FREE,F,F
+  PyNite 7x7 signed residual -1.954e-13%
+  PyNite 11x11 signed residual -1.284e-11%
+  PyNite 15x15 signed residual +9.397e-12%
+  PyNite 21x21 signed residual +5.436e-11%
+  PyNite 31x31 signed residual +1.518e-10%
+  Ritz degrees [8, 14, 22]
+H22_ALL_FIXED ly/lx=1.40 edges=F,FREE,F,F
+  PyNite 7x11 signed residual -2.538e-13%
+  PyNite 11x15 signed residual -1.294e-12%
+  PyNite 15x21 signed residual +2.053e-11%
+  PyNite 21x29 signed residual +6.012e-11%
+  PyNite 31x43 signed residual -9.440e-11%
+  Ritz degrees [8, 14, 22]
+Saved 18 case/ratio runs and 168 comparison rows to results\three_edge_benchmark.json

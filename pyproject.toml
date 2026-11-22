@@ -1,0 +1,25 @@
+[project]
+name = "slabber"
+version = "0.1.0"
+description = "Research-grade reproduction and numerical benchmarking of Czerny/Hahn rectangular plate coefficients"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "altair>=5.5,<7",
+    "numpy>=1.26,<3",
+    "pandas>=2,<4",
+    "PyNiteFEA==3.2.1",
+    "scipy>=1.12,<2",
+    "streamlit>=1.67,<2",
+]
+
+[project.optional-dependencies]
+rendering = [
+    "pynitefea[pyvista]==3.2.1",
+]
+
+# This is an executable research workspace rather than a publishable library.
+# The inherited scripts use relative data paths; preserving that layout
+# avoids accidentally changing original calculations during packaging.
+[tool.uv]
+package = false

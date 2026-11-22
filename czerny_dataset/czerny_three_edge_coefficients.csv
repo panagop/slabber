@@ -1,0 +1,457 @@
+case_id,ratio_ly_lx,quantity,original_symbol,measure_kind,sign,table_value,value_kind,scale_basis,source_table,source_page,source_pdf_page,source_url,notes
+H17_SSS,0.25,deflection_ref,omega_r,deflection,+,11.6,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.30,deflection_ref,omega_r,deflection,+,9.9,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.40,deflection_ref,omega_r,deflection,+,8.25,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.50,deflection_ref,omega_r,deflection,+,7.65,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.60,deflection_ref,omega_r,deflection,+,7.4,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.70,deflection_ref,omega_r,deflection,+,7.35,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.80,deflection_ref,omega_r,deflection,+,7.35,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.90,deflection_ref,omega_r,deflection,+,7.45,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,1.00,deflection_ref,omega_r,deflection,+,7.6,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,1.10,deflection_ref,omega_r,deflection,+,7.8,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,1.20,deflection_ref,omega_r,deflection,+,8.05,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,1.30,deflection_ref,omega_r,deflection,+,8.35,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,1.40,deflection_ref,omega_r,deflection,+,8.7,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,1.50,deflection_ref,omega_r,deflection,+,9.1,denominator,K_lx2_over_Ed3,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3
+H17_SSS,0.25,mx_center,m_xm,moment,+,31.5,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.30,mx_center,m_xm,moment,+,26.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.40,mx_center,m_xm,moment,+,20.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.50,mx_center,m_xm,moment,+,17,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.60,mx_center,m_xm,moment,+,15.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.70,mx_center,m_xm,moment,+,14.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.80,mx_center,m_xm,moment,+,13.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.90,mx_center,m_xm,moment,+,13.6,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.00,mx_center,m_xm,moment,+,13.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.10,mx_center,m_xm,moment,+,13.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.20,mx_center,m_xm,moment,+,14.1,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.30,mx_center,m_xm,moment,+,14.5,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.40,mx_center,m_xm,moment,+,14.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.50,mx_center,m_xm,moment,+,15.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.25,mx_free_mid,m_xr,moment,+,16.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.30,mx_free_mid,m_xr,moment,+,13.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.40,mx_free_mid,m_xr,moment,+,11,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.50,mx_free_mid,m_xr,moment,+,9.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.60,mx_free_mid,m_xr,moment,+,9.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.70,mx_free_mid,m_xr,moment,+,9.1,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.80,mx_free_mid,m_xr,moment,+,9.1,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.90,mx_free_mid,m_xr,moment,+,9.4,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.00,mx_free_mid,m_xr,moment,+,9.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.10,mx_free_mid,m_xr,moment,+,10.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.20,mx_free_mid,m_xr,moment,+,10.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.30,mx_free_mid,m_xr,moment,+,11.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.40,mx_free_mid,m_xr,moment,+,11.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.50,mx_free_mid,m_xr,moment,+,12.6,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.25,mxy_free_corner,m_xy1,moment,±,11.6,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.30,mxy_free_corner,m_xy1,moment,±,12.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.40,mxy_free_corner,m_xy1,moment,±,15.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.50,mxy_free_corner,m_xy1,moment,±,20.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.60,mxy_free_corner,m_xy1,moment,±,26.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.70,mxy_free_corner,m_xy1,moment,±,35,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.80,mxy_free_corner,m_xy1,moment,±,47,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.90,mxy_free_corner,m_xy1,moment,±,63.6,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,1.00,mxy_free_corner,m_xy1,moment,±,86.5,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,1.10,mxy_free_corner,m_xy1,moment,±,118,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,1.20,mxy_free_corner,m_xy1,moment,±,161,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,1.30,mxy_free_corner,m_xy1,moment,±,220,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,1.40,mxy_free_corner,m_xy1,moment,±,300,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,1.50,mxy_free_corner,m_xy1,moment,±,412,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Free/supported corner; R1=2*m_xy1
+H17_SSS,0.25,mxy_rear_corner,m_xy2,moment,±,8.6,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.30,mxy_rear_corner,m_xy2,moment,±,8.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.40,mxy_rear_corner,m_xy2,moment,±,9.4,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.50,mxy_rear_corner,m_xy2,moment,±,10.1,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.60,mxy_rear_corner,m_xy2,moment,±,10.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.70,mxy_rear_corner,m_xy2,moment,±,11.8,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.80,mxy_rear_corner,m_xy2,moment,±,12.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.90,mxy_rear_corner,m_xy2,moment,±,14.1,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,1.00,mxy_rear_corner,m_xy2,moment,±,15.4,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,1.10,mxy_rear_corner,m_xy2,moment,±,16.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,1.20,mxy_rear_corner,m_xy2,moment,±,17.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,1.30,mxy_rear_corner,m_xy2,moment,±,19.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,1.40,mxy_rear_corner,m_xy2,moment,±,20.6,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,1.50,mxy_rear_corner,m_xy2,moment,±,22.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Rear two-supported-edge corner; R2=2*m_xy2
+H17_SSS,0.25,my_center,m_ym,moment,+,33.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.30,my_center,m_ym,moment,+,29.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.40,my_center,m_ym,moment,+,26.3,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.50,my_center,m_ym,moment,+,25.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.60,my_center,m_ym,moment,+,27.4,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.70,my_center,m_ym,moment,+,29.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.80,my_center,m_ym,moment,+,33.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.90,my_center,m_ym,moment,+,37.1,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.00,my_center,m_ym,moment,+,41.7,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.10,my_center,m_ym,moment,+,45.9,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.20,my_center,m_ym,moment,+,50,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.30,my_center,m_ym,moment,+,54.2,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.40,my_center,m_ym,moment,+,58.4,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,1.50,my_center,m_ym,moment,+,62.4,denominator,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H17_SSS,0.25,reaction_x_total,nu_x,reaction,+,0.13,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.30,reaction_x_total,nu_x,reaction,+,0.16,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.40,reaction_x_total,nu_x,reaction,+,0.22,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.50,reaction_x_total,nu_x,reaction,+,0.28,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.60,reaction_x_total,nu_x,reaction,+,0.31,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.70,reaction_x_total,nu_x,reaction,+,0.34,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.80,reaction_x_total,nu_x,reaction,+,0.37,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.90,reaction_x_total,nu_x,reaction,+,0.39,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,1.00,reaction_x_total,nu_x,reaction,+,0.41,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,1.10,reaction_x_total,nu_x,reaction,+,0.42,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,1.20,reaction_x_total,nu_x,reaction,+,0.43,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,1.30,reaction_x_total,nu_x,reaction,+,0.44,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,1.40,reaction_x_total,nu_x,reaction,+,0.45,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,1.50,reaction_x_total,nu_x,reaction,+,0.45,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+H17_SSS,0.25,reaction_y_total,nu_y,reaction,+,0.84,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.30,reaction_y_total,nu_y,reaction,+,0.8,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.40,reaction_y_total,nu_y,reaction,+,0.72,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.50,reaction_y_total,nu_y,reaction,+,0.64,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.60,reaction_y_total,nu_y,reaction,+,0.59,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.70,reaction_y_total,nu_y,reaction,+,0.54,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.80,reaction_y_total,nu_y,reaction,+,0.49,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,0.90,reaction_y_total,nu_y,reaction,+,0.44,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,1.00,reaction_y_total,nu_y,reaction,+,0.4,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,1.10,reaction_y_total,nu_y,reaction,+,0.36,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,1.20,reaction_y_total,nu_y,reaction,+,0.34,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,1.30,reaction_y_total,nu_y,reaction,+,0.32,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,1.40,reaction_y_total,nu_y,reaction,+,0.3,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H17_SSS,1.50,reaction_y_total,nu_y,reaction,+,0.28,multiplier,K,Hahn Tafel 17,374,13,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"K_y=nu_y*K, resultant at rear edge, see source sketch"
+H18_REAR_FIXED,0.25,mx_center,m_xm,moment,+,293,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.30,mx_center,m_xm,moment,+,174,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.40,mx_center,m_xm,moment,+,79,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.50,mx_center,m_xm,moment,+,48,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.60,mx_center,m_xm,moment,+,34.2,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.70,mx_center,m_xm,moment,+,27,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.80,mx_center,m_xm,moment,+,23.3,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.90,mx_center,m_xm,moment,+,21,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.00,mx_center,m_xm,moment,+,19.7,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.10,mx_center,m_xm,moment,+,18.8,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.20,mx_center,m_xm,moment,+,18.3,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.30,mx_center,m_xm,moment,+,18.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.40,mx_center,m_xm,moment,+,18.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.50,mx_center,m_xm,moment,+,18.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.25,mx_free_mid,m_xr,moment,+,105,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.30,mx_free_mid,m_xr,moment,+,60.2,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.40,mx_free_mid,m_xr,moment,+,29.4,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.50,mx_free_mid,m_xr,moment,+,19.4,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.60,mx_free_mid,m_xr,moment,+,15.2,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.70,mx_free_mid,m_xr,moment,+,13,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.80,mx_free_mid,m_xr,moment,+,12,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.90,mx_free_mid,m_xr,moment,+,11.5,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.00,mx_free_mid,m_xr,moment,+,11.4,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.10,mx_free_mid,m_xr,moment,+,11.5,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.20,mx_free_mid,m_xr,moment,+,11.7,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.30,mx_free_mid,m_xr,moment,+,12.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.40,mx_free_mid,m_xr,moment,+,12.5,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.50,mx_free_mid,m_xr,moment,+,13.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.25,mxy_free_corner,m_xy1,moment,±,35,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.30,mxy_free_corner,m_xy1,moment,±,30,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.40,mxy_free_corner,m_xy1,moment,±,26,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.50,mxy_free_corner,m_xy1,moment,±,26,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.60,mxy_free_corner,m_xy1,moment,±,29,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.70,mxy_free_corner,m_xy1,moment,±,33,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.80,mxy_free_corner,m_xy1,moment,±,40,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.90,mxy_free_corner,m_xy1,moment,±,48,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,1.00,mxy_free_corner,m_xy1,moment,±,64,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,1.10,mxy_free_corner,m_xy1,moment,±,84,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,1.20,mxy_free_corner,m_xy1,moment,±,110,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,1.30,mxy_free_corner,m_xy1,moment,±,146,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,1.40,mxy_free_corner,m_xy1,moment,±,195,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,1.50,mxy_free_corner,m_xy1,moment,±,262,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"R=2*m_xy1, magnitude"
+H18_REAR_FIXED,0.25,my_positive_adjacent,m_y'm,moment,+,124,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.30,my_positive_adjacent,m_y'm,moment,+,107,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.40,my_positive_adjacent,m_y'm,moment,+,85,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.50,my_positive_adjacent,m_y'm,moment,+,72,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.60,my_positive_adjacent,m_y'm,moment,+,63,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.70,my_positive_adjacent,m_y'm,moment,+,57,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.80,my_positive_adjacent,m_y'm,moment,+,54,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.90,my_positive_adjacent,m_y'm,moment,+,52,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,1.00,my_positive_adjacent,m_y'm,moment,+,55,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,1.10,my_positive_adjacent,m_y'm,moment,+,59,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,1.20,my_positive_adjacent,m_y'm,moment,+,64,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,1.30,my_positive_adjacent,m_y'm,moment,+,70,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,1.40,my_positive_adjacent,m_y'm,moment,+,77,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,1.50,my_positive_adjacent,m_y'm,moment,+,84,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Positive moment near fixed rear edge
+H18_REAR_FIXED,0.25,my_rear_fixed,m_ey,moment,-,9,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.30,my_rear_fixed,m_ey,moment,-,8.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.40,my_rear_fixed,m_ey,moment,-,7.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.50,my_rear_fixed,m_ey,moment,-,6.8,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.60,my_rear_fixed,m_ey,moment,-,6.8,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.70,my_rear_fixed,m_ey,moment,-,7.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.80,my_rear_fixed,m_ey,moment,-,7.4,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.90,my_rear_fixed,m_ey,moment,-,7.9,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.00,my_rear_fixed,m_ey,moment,-,8.5,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.10,my_rear_fixed,m_ey,moment,-,9.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.20,my_rear_fixed,m_ey,moment,-,9.8,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.30,my_rear_fixed,m_ey,moment,-,10.5,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.40,my_rear_fixed,m_ey,moment,-,11.3,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,1.50,my_rear_fixed,m_ey,moment,-,12.1,denominator,K,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H18_REAR_FIXED,0.25,negative_moment_reach,beta,fraction,+,0.6,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.30,negative_moment_reach,beta,fraction,+,0.57,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.40,negative_moment_reach,beta,fraction,+,0.53,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.50,negative_moment_reach,beta,fraction,+,0.49,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.60,negative_moment_reach,beta,fraction,+,0.46,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.70,negative_moment_reach,beta,fraction,+,0.43,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.80,negative_moment_reach,beta,fraction,+,0.4,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,0.90,negative_moment_reach,beta,fraction,+,0.37,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,1.00,negative_moment_reach,beta,fraction,+,0.34,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,1.10,negative_moment_reach,beta,fraction,+,0.31,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,1.20,negative_moment_reach,beta,fraction,+,0.28,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,1.30,negative_moment_reach,beta,fraction,+,0.25,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,1.40,negative_moment_reach,beta,fraction,+,0.22,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H18_REAR_FIXED,1.50,negative_moment_reach,beta,fraction,+,0.2,multiplier,1,Hahn Tafel 18,375,14,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Approximate distance beta*ly of the negative my zone from the rear support
+H19_ONE_SIDE_FIXED,0.25,mx_center,m_xm,moment,+,31.3,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.40,mx_center,m_xm,moment,+,20.6,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.50,mx_center,m_xm,moment,+,18.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.60,mx_center,m_xm,moment,+,17.7,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.80,mx_center,m_xm,moment,+,17.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.00,mx_center,m_xm,moment,+,18.8,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.20,mx_center,m_xm,moment,+,20.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.40,mx_center,m_xm,moment,+,22.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.60,mx_center,m_xm,moment,+,24.8,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.80,mx_center,m_xm,moment,+,27.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,2.00,mx_center,m_xm,moment,+,30.7,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.25,mx_fixed_free_corner,m_er,moment,-,4.1,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.40,mx_fixed_free_corner,m_er,moment,-,4.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.50,mx_fixed_free_corner,m_er,moment,-,5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.60,mx_fixed_free_corner,m_er,moment,-,5.8,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.80,mx_fixed_free_corner,m_er,moment,-,6.7,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.00,mx_fixed_free_corner,m_er,moment,-,7.9,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.20,mx_fixed_free_corner,m_er,moment,-,9.2,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.40,mx_fixed_free_corner,m_er,moment,-,10.6,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.60,mx_fixed_free_corner,m_er,moment,-,12,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.80,mx_fixed_free_corner,m_er,moment,-,13.3,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,2.00,mx_fixed_free_corner,m_er,moment,-,14.6,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.25,mx_fixed_side_mid,m_em,moment,-,11.7,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.40,mx_fixed_side_mid,m_em,moment,-,9.8,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.50,mx_fixed_side_mid,m_em,moment,-,9.1,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.60,mx_fixed_side_mid,m_em,moment,-,8.8,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.80,mx_fixed_side_mid,m_em,moment,-,9.2,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.00,mx_fixed_side_mid,m_em,moment,-,10.1,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.20,mx_fixed_side_mid,m_em,moment,-,11.2,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.40,mx_fixed_side_mid,m_em,moment,-,12.5,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.60,mx_fixed_side_mid,m_em,moment,-,13.9,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.80,mx_fixed_side_mid,m_em,moment,-,15.4,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,2.00,mx_fixed_side_mid,m_em,moment,-,17,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.25,mx_free_mid,m_xr,moment,+,15.4,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.40,mx_free_mid,m_xr,moment,+,11.6,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.50,mx_free_mid,m_xr,moment,+,11.4,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.60,mx_free_mid,m_xr,moment,+,11.7,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.80,mx_free_mid,m_xr,moment,+,12.9,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.00,mx_free_mid,m_xr,moment,+,15.3,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.20,mx_free_mid,m_xr,moment,+,17.7,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.40,mx_free_mid,m_xr,moment,+,20.4,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.60,mx_free_mid,m_xr,moment,+,23.2,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,1.80,mx_free_mid,m_xr,moment,+,26.3,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,2.00,mx_free_mid,m_xr,moment,+,27.8,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H19_ONE_SIDE_FIXED,0.25,my_center_or_max,m_y,moment,+,35,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,0.40,my_center_or_max,m_y,moment,+,30,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,0.50,my_center_or_max,m_y,moment,+,29,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,0.60,my_center_or_max,m_y,moment,+,28,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,0.80,my_center_or_max,m_y,moment,+,35,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,1.00,my_center_or_max,m_y,moment,+,46,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,1.20,my_center_or_max,m_y,moment,+,58,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,1.40,my_center_or_max,m_y,moment,+,71,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,1.60,my_center_or_max,m_y,moment,+,86,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,1.80,my_center_or_max,m_y,moment,+,101,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H19_ONE_SIDE_FIXED,2.00,my_center_or_max,m_y,moment,+,117,denominator,K,Hahn Tafel 19,376,15,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.8, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,0.25,mx_center,m_xm,moment,+,29,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.40,mx_center,m_xm,moment,+,23.3,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.50,mx_center,m_xm,moment,+,22.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.60,mx_center,m_xm,moment,+,22.7,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.80,mx_center,m_xm,moment,+,25.4,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.00,mx_center,m_xm,moment,+,29,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.20,mx_center,m_xm,moment,+,32.5,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.40,mx_center,m_xm,moment,+,36.4,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.60,mx_center,m_xm,moment,+,40.2,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.80,mx_center,m_xm,moment,+,44.6,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,2.00,mx_center,m_xm,moment,+,49,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.25,mx_fixed_free_corner,m_er,moment,-,4.5,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.40,mx_fixed_free_corner,m_er,moment,-,5.2,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.50,mx_fixed_free_corner,m_er,moment,-,6.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.60,mx_fixed_free_corner,m_er,moment,-,7.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.80,mx_fixed_free_corner,m_er,moment,-,9.5,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.00,mx_fixed_free_corner,m_er,moment,-,11.9,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.20,mx_fixed_free_corner,m_er,moment,-,14.3,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.40,mx_fixed_free_corner,m_er,moment,-,16.9,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.60,mx_fixed_free_corner,m_er,moment,-,19.2,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.80,mx_fixed_free_corner,m_er,moment,-,21.6,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,2.00,mx_fixed_free_corner,m_er,moment,-,24.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.25,mx_fixed_side_mid,m_em,moment,-,9.8,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.40,mx_fixed_side_mid,m_em,moment,-,9.7,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.50,mx_fixed_side_mid,m_em,moment,-,10.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.60,mx_fixed_side_mid,m_em,moment,-,10.7,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.80,mx_fixed_side_mid,m_em,moment,-,12.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.00,mx_fixed_side_mid,m_em,moment,-,13.8,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.20,mx_fixed_side_mid,m_em,moment,-,15.7,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.40,mx_fixed_side_mid,m_em,moment,-,17.4,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.60,mx_fixed_side_mid,m_em,moment,-,19.7,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.80,mx_fixed_side_mid,m_em,moment,-,21.9,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,2.00,mx_fixed_side_mid,m_em,moment,-,24.2,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.25,mx_free_mid,m_xr,moment,+,16.6,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.40,mx_free_mid,m_xr,moment,+,13.8,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.50,mx_free_mid,m_xr,moment,+,14.8,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.60,mx_free_mid,m_xr,moment,+,15.9,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.80,mx_free_mid,m_xr,moment,+,19.5,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.00,mx_free_mid,m_xr,moment,+,23.5,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.20,mx_free_mid,m_xr,moment,+,28.3,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.40,mx_free_mid,m_xr,moment,+,33.4,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.60,mx_free_mid,m_xr,moment,+,38.4,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,1.80,mx_free_mid,m_xr,moment,+,43.3,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,2.00,mx_free_mid,m_xr,moment,+,48.1,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H20_BOTH_SIDES_FIXED,0.25,my_center_or_max,m_y,moment,+,37,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,0.40,my_center_or_max,m_y,moment,+,36,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,0.50,my_center_or_max,m_y,moment,+,39,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,0.60,my_center_or_max,m_y,moment,+,44,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,0.80,my_center_or_max,m_y,moment,+,52,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,1.00,my_center_or_max,m_y,moment,+,72,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,1.20,my_center_or_max,m_y,moment,+,90,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,1.40,my_center_or_max,m_y,moment,+,108,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,1.60,my_center_or_max,m_y,moment,+,127,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,1.80,my_center_or_max,m_y,moment,+,149,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H20_BOTH_SIDES_FIXED,2.00,my_center_or_max,m_y,moment,+,170,denominator,K,Hahn Tafel 20,377,16,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,"For eps > approximately 0.6, this represents my_max near rear edge, not my at center"
+H21_ADJ_FIXED,0.25,mx_center,m_xm,moment,+,112,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.40,mx_center,m_xm,moment,+,55.5,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.50,mx_center,m_xm,moment,+,41.4,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.60,mx_center,m_xm,moment,+,33.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.80,mx_center,m_xm,moment,+,26.8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.00,mx_center,m_xm,moment,+,24.9,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.20,mx_center,m_xm,moment,+,24.8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.40,mx_center,m_xm,moment,+,25.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.60,mx_center,m_xm,moment,+,27.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.80,mx_center,m_xm,moment,+,30.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,2.00,mx_center,m_xm,moment,+,33.2,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.25,mx_fixed_free_corner,m_er,moment,-,6.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.40,mx_fixed_free_corner,m_er,moment,-,5.8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.50,mx_fixed_free_corner,m_er,moment,-,5.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.60,mx_fixed_free_corner,m_er,moment,-,6,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.80,mx_fixed_free_corner,m_er,moment,-,6.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.00,mx_fixed_free_corner,m_er,moment,-,7.8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.20,mx_fixed_free_corner,m_er,moment,-,9.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.40,mx_fixed_free_corner,m_er,moment,-,10.5,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.60,mx_fixed_free_corner,m_er,moment,-,11.9,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.80,mx_fixed_free_corner,m_er,moment,-,13.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,2.00,mx_fixed_free_corner,m_er,moment,-,14.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.25,mx_fixed_side_mid,m_em,moment,-,26.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.40,mx_fixed_side_mid,m_em,moment,-,17.4,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.50,mx_fixed_side_mid,m_em,moment,-,15.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.60,mx_fixed_side_mid,m_em,moment,-,13.6,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.80,mx_fixed_side_mid,m_em,moment,-,12.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.00,mx_fixed_side_mid,m_em,moment,-,12.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.20,mx_fixed_side_mid,m_em,moment,-,12.6,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.40,mx_fixed_side_mid,m_em,moment,-,13.5,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.60,mx_fixed_side_mid,m_em,moment,-,14.8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.80,mx_fixed_side_mid,m_em,moment,-,16.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,2.00,mx_fixed_side_mid,m_em,moment,-,17.9,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.25,mx_free_mid,m_xr,moment,+,54,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.40,mx_free_mid,m_xr,moment,+,25.2,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.50,mx_free_mid,m_xr,moment,+,19.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.60,mx_free_mid,m_xr,moment,+,16,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.80,mx_free_mid,m_xr,moment,+,15.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.00,mx_free_mid,m_xr,moment,+,16.4,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.20,mx_free_mid,m_xr,moment,+,18.6,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.40,mx_free_mid,m_xr,moment,+,21,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.60,mx_free_mid,m_xr,moment,+,23.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.80,mx_free_mid,m_xr,moment,+,26.7,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,2.00,mx_free_mid,m_xr,moment,+,30.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.25,my_center,m_ym,moment,+,690,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,0.40,my_center,m_ym,moment,+,103,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,0.50,my_center,m_ym,moment,+,80,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,0.60,my_center,m_ym,moment,+,71,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,0.80,my_center,m_ym,moment,+,67,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,1.00,my_center,m_ym,moment,+,83,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,1.20,my_center,m_ym,moment,+,106,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,1.40,my_center,m_ym,moment,+,125,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,1.60,my_center,m_ym,moment,+,137,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,1.80,my_center,m_ym,moment,+,195,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,2.00,my_center,m_ym,moment,+,201,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,Check rapid printed variation near eps 0.25 and 1.8 against physical copy before design
+H21_ADJ_FIXED,0.25,my_rear_fixed,m_ey,moment,-,9.1,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.40,my_rear_fixed,m_ey,moment,-,7.9,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.50,my_rear_fixed,m_ey,moment,-,8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.60,my_rear_fixed,m_ey,moment,-,8.4,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,0.80,my_rear_fixed,m_ey,moment,-,10.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.00,my_rear_fixed,m_ey,moment,-,12.8,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.20,my_rear_fixed,m_ey,moment,-,15.4,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.40,my_rear_fixed,m_ey,moment,-,18,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.60,my_rear_fixed,m_ey,moment,-,20.5,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,1.80,my_rear_fixed,m_ey,moment,-,22.9,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H21_ADJ_FIXED,2.00,my_rear_fixed,m_ey,moment,-,25.3,denominator,K,Hahn Tafel 21,378,17,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.25,mx_center,m_xm,moment,+,228,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.30,mx_center,m_xm,moment,+,126,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.40,mx_center,m_xm,moment,+,63.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.50,mx_center,m_xm,moment,+,45.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.60,mx_center,m_xm,moment,+,38.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.70,mx_center,m_xm,moment,+,35.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.80,mx_center,m_xm,moment,+,34.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.90,mx_center,m_xm,moment,+,34,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.00,mx_center,m_xm,moment,+,34.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.10,mx_center,m_xm,moment,+,34.9,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.20,mx_center,m_xm,moment,+,35.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.30,mx_center,m_xm,moment,+,37,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.40,mx_center,m_xm,moment,+,38.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.50,mx_center,m_xm,moment,+,39.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.25,mx_fixed_free_corner,m_er,moment,-,8.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.30,mx_fixed_free_corner,m_er,moment,-,7.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.40,mx_fixed_free_corner,m_er,moment,-,6.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.50,mx_fixed_free_corner,m_er,moment,-,6.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.60,mx_fixed_free_corner,m_er,moment,-,7.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.70,mx_fixed_free_corner,m_er,moment,-,8.2,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.80,mx_fixed_free_corner,m_er,moment,-,9.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.90,mx_fixed_free_corner,m_er,moment,-,10.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.00,mx_fixed_free_corner,m_er,moment,-,11.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.10,mx_fixed_free_corner,m_er,moment,-,12.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.20,mx_fixed_free_corner,m_er,moment,-,14.1,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.30,mx_fixed_free_corner,m_er,moment,-,15.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.40,mx_fixed_free_corner,m_er,moment,-,16.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.50,mx_fixed_free_corner,m_er,moment,-,17.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.25,mx_fixed_side_mid,m_em,moment,-,27.2,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.30,mx_fixed_side_mid,m_em,moment,-,23,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.40,mx_fixed_side_mid,m_em,moment,-,18.1,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.50,mx_fixed_side_mid,m_em,moment,-,15.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.60,mx_fixed_side_mid,m_em,moment,-,14.7,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.70,mx_fixed_side_mid,m_em,moment,-,14.2,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.80,mx_fixed_side_mid,m_em,moment,-,14.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.90,mx_fixed_side_mid,m_em,moment,-,14.5,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.00,mx_fixed_side_mid,m_em,moment,-,15,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.10,mx_fixed_side_mid,m_em,moment,-,15.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.20,mx_fixed_side_mid,m_em,moment,-,16.2,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.30,mx_fixed_side_mid,m_em,moment,-,17,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.40,mx_fixed_side_mid,m_em,moment,-,17.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.50,mx_fixed_side_mid,m_em,moment,-,18.7,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.25,mx_free_mid,m_xr,moment,+,77,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.30,mx_free_mid,m_xr,moment,+,46.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.40,mx_free_mid,m_xr,moment,+,26.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.50,mx_free_mid,m_xr,moment,+,21.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.60,mx_free_mid,m_xr,moment,+,19.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.70,mx_free_mid,m_xr,moment,+,19.9,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.80,mx_free_mid,m_xr,moment,+,20.9,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.90,mx_free_mid,m_xr,moment,+,22.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.00,mx_free_mid,m_xr,moment,+,24.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.10,mx_free_mid,m_xr,moment,+,26.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.20,mx_free_mid,m_xr,moment,+,28.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.30,mx_free_mid,m_xr,moment,+,31,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.40,mx_free_mid,m_xr,moment,+,33.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.50,mx_free_mid,m_xr,moment,+,35.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.25,my_center,m_ym,moment,+,417,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.30,my_center,m_ym,moment,+,208,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.40,my_center,m_ym,moment,+,108,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.50,my_center,m_ym,moment,+,83.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.60,my_center,m_ym,moment,+,80,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.70,my_center,m_ym,moment,+,83.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.80,my_center,m_ym,moment,+,91,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.90,my_center,m_ym,moment,+,99.5,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.00,my_center,m_ym,moment,+,109,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.10,my_center,m_ym,moment,+,119,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.20,my_center,m_ym,moment,+,130,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.30,my_center,m_ym,moment,+,141,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.40,my_center,m_ym,moment,+,152,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.50,my_center,m_ym,moment,+,163,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.25,my_rear_fixed,m_ey,moment,-,9.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.30,my_rear_fixed,m_ey,moment,-,9,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.40,my_rear_fixed,m_ey,moment,-,9,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.50,my_rear_fixed,m_ey,moment,-,9.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.60,my_rear_fixed,m_ey,moment,-,11.1,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.70,my_rear_fixed,m_ey,moment,-,12.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.80,my_rear_fixed,m_ey,moment,-,14.2,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,0.90,my_rear_fixed,m_ey,moment,-,15.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.00,my_rear_fixed,m_ey,moment,-,17.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.10,my_rear_fixed,m_ey,moment,-,19.3,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.20,my_rear_fixed,m_ey,moment,-,21.1,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.30,my_rear_fixed,m_ey,moment,-,22.8,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.40,my_rear_fixed,m_ey,moment,-,24.6,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,
+H22_ALL_FIXED,1.50,my_rear_fixed,m_ey,moment,-,26.4,denominator,K,Hahn Tafel 22,379,18,https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf,

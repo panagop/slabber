@@ -1,0 +1,16 @@
+case_id,edges_x0_y0_xa_yb,source_page,aspect_ratios,ratio_min,ratio_max,n_parameters,completeness,source_url
+SSSS,"S,S,S,S",281,21,1.0,2.0,9,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+F_y0,"S,F,S,S",282,21,1.0,2.0,11,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+F_x0,"F,S,S,S",283,21,1.0,2.0,11,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FF_y,"S,F,S,F",284,21,1.0,2.0,7,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FF_x,"F,S,F,S",285,21,1.0,2.0,7,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FF_adj,"F,F,S,S",286,21,1.0,2.0,11,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FFF_x,"F,F,S,F",287,21,1.0,2.0,9,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FFF_y,"F,F,F,S",288,21,1.0,2.0,9,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FFFF,"F,F,F,F",289,21,1.0,2.0,7,full 0.05 grid,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+H17_SSS,"S,FREE,S,S",374,14,0.25,1.5,8,all published Hahn uniform-load aspect ratios (nonuniform spacing),https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf
+H18_REAR_FIXED,"S,FREE,S,F",375,14,0.25,1.5,6,all published Hahn uniform-load aspect ratios (nonuniform spacing),https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf
+H19_ONE_SIDE_FIXED,"F,FREE,S,S",376,11,0.25,2.0,5,all published Hahn uniform-load aspect ratios (nonuniform spacing),https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf
+H20_BOTH_SIDES_FIXED,"F,FREE,F,S",377,11,0.25,2.0,5,all published Hahn uniform-load aspect ratios (nonuniform spacing),https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf
+H21_ADJ_FIXED,"F,FREE,S,F",378,11,0.25,2.0,6,all published Hahn uniform-load aspect ratios (nonuniform spacing),https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf
+H22_ALL_FIXED,"F,FREE,F,F",379,14,0.25,1.5,6,all published Hahn uniform-load aspect ratios (nonuniform spacing),https://fgg-web.fgg.uni-lj.si/KMLK/Sebastjan/masivni%20objekti/Hahnove%20tabele.pdf

@@ -1,0 +1,111 @@
+{
+  "case_id": "H17_SSS",
+  "ratio_ly_lx": 0.6,
+  "total_uniform_load_K": 35.625,
+  "three_edges_supported": true,
+  "nu_assumed": 0,
+  "warning": "Elastic uncracked plate coefficients only; do not use for final structural design. ± signs denote magnitudes only. See documentation.",
+  "responses": {
+    "deflection_ref": {
+      "value": 0.0001563405787942825,
+      "unit": "m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 7.4,
+      "printed_value_kind": "denominator",
+      "scale_basis": "K_lx2_over_Ed3",
+      "notes": "Hahn: w_r = K*lx^2/(omega_bar*E*h^3); D = omega_bar*E*h^3"
+    },
+    "mx_center": {
+      "value": 2.34375,
+      "unit": "kNm/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 15.2,
+      "printed_value_kind": "denominator",
+      "scale_basis": "K"
+    },
+    "mx_free_mid": {
+      "value": 3.8722826086956528,
+      "unit": "kNm/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 9.2,
+      "printed_value_kind": "denominator",
+      "scale_basis": "K"
+    },
+    "mxy_free_corner": {
+      "value": 1.3545627376425855,
+      "unit": "kNm/m",
+      "sign": "±",
+      "value_is_magnitude_only": true,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 26.3,
+      "printed_value_kind": "denominator",
+      "scale_basis": "K",
+      "notes": "Free/supported corner; R1=2*m_xy1"
+    },
+    "mxy_rear_corner": {
+      "value": 3.2986111111111107,
+      "unit": "kNm/m",
+      "sign": "±",
+      "value_is_magnitude_only": true,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 10.8,
+      "printed_value_kind": "denominator",
+      "scale_basis": "K",
+      "notes": "Rear two-supported-edge corner; R2=2*m_xy2"
+    },
+    "my_center": {
+      "value": 1.300182481751825,
+      "unit": "kNm/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 27.4,
+      "printed_value_kind": "denominator",
+      "scale_basis": "K"
+    },
+    "reaction_x_total": {
+      "value": 11.04375,
+      "unit": "kN",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 0.31,
+      "printed_value_kind": "multiplier",
+      "scale_basis": "K",
+      "notes": "K_x=nu_x*K, resultant for each x-side edge, see source sketch"
+    },
+    "reaction_y_total": {
+      "value": 21.018749999999997,
+      "unit": "kN",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Hahn Tafel 17",
+      "source_page": 374,
+      "printed_table_value": 0.59,
+      "printed_value_kind": "multiplier",
+      "scale_basis": "K",
+      "notes": "K_y=nu_y*K, resultant at rear edge, see source sketch"
+    }
+  }
+}

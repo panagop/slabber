@@ -1,0 +1,22 @@
+{'python': '3.12.12', 'platform': 'Windows-10-10.0.19045-SP0', 'PyNiteFEA': '3.2.1', 'numpy': '2.5.5', 'scipy': '1.18.1'}
+H18_REAR_FIXED ly/lx=0.50 edges=S,FREE,S,F
+  PyNite 31x17 signed residual -4.605e-10%
+  PyNite 45x23 signed residual -6.239e-10%
+  Ritz degrees [22, 32]
+H19_ONE_SIDE_FIXED ly/lx=0.50 edges=F,FREE,S,S
+  PyNite 31x17 signed residual -6.706e-10%
+  PyNite 45x23 signed residual -1.257e-09%
+  Ritz degrees [22, 32]
+H20_BOTH_SIDES_FIXED ly/lx=0.50 edges=F,FREE,F,S
+  PyNite 31x17 signed residual -3.742e-10%
+  PyNite 45x23 signed residual -4.199e-10%
+  Ritz degrees [22, 32]
+H21_ADJ_FIXED ly/lx=0.50 edges=F,FREE,S,F
+  PyNite 31x17 signed residual -3.286e-10%
+  PyNite 45x23 signed residual -4.647e-10%
+  Ritz degrees [22, 32]
+H22_ALL_FIXED ly/lx=0.50 edges=F,FREE,F,F
+  PyNite 31x17 signed residual -2.326e-10%
+  PyNite 45x23 signed residual -2.808e-10%
+  Ritz degrees [22, 32]
+Saved 5 case/ratio runs and 46 comparison rows to results\three_edge_0p50_refinement.json

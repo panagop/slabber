@@ -1,0 +1,118 @@
+{
+  "case_id": "SSSS",
+  "ratio_ly_lx": 1.5,
+  "total_uniform_load_K": 240.0,
+  "three_edges_supported": false,
+  "nu_assumed": 0,
+  "warning": "Elastic uncracked plate coefficients only; do not use for final structural design. ± signs denote magnitudes only. See documentation.",
+  "responses": {
+    "corner_force": {
+      "value": 19.631901840490798,
+      "unit": "kN",
+      "sign": "±",
+      "value_is_magnitude_only": true,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 8.15,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx2"
+    },
+    "deflection_mid": {
+      "value": 0.0012330714552936778,
+      "unit": "m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 0.0927,
+      "printed_value_kind": "multiplier",
+      "scale_basis": "p_lx4_over_Ed3"
+    },
+    "mx_mid": {
+      "value": 11.678832116788323,
+      "unit": "kNm/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 13.7,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx2"
+    },
+    "mxy_corner": {
+      "value": 9.815950920245399,
+      "unit": "kNm/m",
+      "sign": "±",
+      "value_is_magnitude_only": true,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 16.3,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx2"
+    },
+    "my_max": {
+      "value": 4.610951008645533,
+      "unit": "kNm/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 34.7,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx2"
+    },
+    "qx_mid": {
+      "value": 16.949152542372882,
+      "unit": "kN/m",
+      "sign": "±",
+      "value_is_magnitude_only": true,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 2.36,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx"
+    },
+    "qx_support_mid": {
+      "value": 20.512820512820515,
+      "unit": "kN/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 1.95,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx"
+    },
+    "qy_mid": {
+      "value": 14.545454545454547,
+      "unit": "kN/m",
+      "sign": "±",
+      "value_is_magnitude_only": true,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 2.75,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx"
+    },
+    "qy_support_mid": {
+      "value": 21.164021164021168,
+      "unit": "kN/m",
+      "sign": "+",
+      "value_is_magnitude_only": false,
+      "interpolated": false,
+      "source_table": "Czerny 1996 four-edge",
+      "source_page": 281,
+      "printed_table_value": 1.89,
+      "printed_value_kind": "denominator",
+      "scale_basis": "p_lx"
+    }
+  }
+}
