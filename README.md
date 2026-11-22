@@ -28,7 +28,7 @@ code .
 ```
 
 Slabber defaults to Python 3.12 via `.python-version`. `uv sync` creates
-`.venv/` and installs the project dependencies, including `PyNiteFEA==3.2.1`.
+`.venv/` and installs the project dependencies, including `PyNiteFEA[pyvista]==3.2.1`.
 
 ### Launch the slab explorer
 
@@ -48,16 +48,11 @@ diagrams.
 
 Both pages also show full-slab maps of `Mx`, `My`, `Mxy` and vertical
 deflection. The interactive maps show signed values at element centers,
-with deflection in millimetres, positive downward. To enable the native
-PyNite contour images and deformed shape, launch the app with the optional
-PyVista/VTK dependencies.
-
-```bash
-uv run --locked --extra rendering streamlit run app.py
-```
-
-The **PyNite render** tab labels nodal averaging on the moment contours
-and the displacement exaggeration on the deformed shape.
+with deflection in millimetres, positive downward. The **PyNite render** tab
+uses PyVista/VTK to draw nodally averaged moment contours and the exaggerated
+deformed shape. On Streamlit Community Cloud, the root `packages.txt` installs
+the Debian libraries for off-screen rendering via EGL, with OSMesa as a
+software fallback.
 
 ### First table calculation
 

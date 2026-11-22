@@ -54,8 +54,10 @@ references are finite differences and Rayleigh–Ritz, respectively.
   mesh levels were also exercised for `FFFF` at 1.05 and `FFF_y` at 1.95.
   All 33 project tests passed.
 - The full-slab Streamlit views show signed PyNite `Mx`, `My`, `Mxy` and
-  vertical deflection at element centers. The optional `rendering` extra
-  enables PyNite's nodally averaged moment contours and deformed-shape PNGs.
+  vertical deflection at element centers. The default install includes
+  PyNite's renderer for nodally averaged moment contours and deformed-shape
+  PNGs. Streamlit Community Cloud installs the headless EGL and OSMesa
+  runtime libraries from `packages.txt`.
   Verification covered both pages with Streamlit 1.67.0 and native PNGs
   with PyVista 0.49.2 and VTK 9.7.2. All 31 numerical tests passed.
 
