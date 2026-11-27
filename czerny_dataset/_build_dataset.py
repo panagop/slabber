@@ -47,7 +47,7 @@ CASES={
 'my_max':('m_ymax','moment','+','35.1 31.3 32.1 35.9 42.4'),
 'qx_mid':('q_xrm','shear','±','4.09 3.27 2.78 2.49 2.32'),
 'qx_support_mid':('qbar_xrm','shear','+','2.95 2.44 2.18 2.05 1.98'),
-'qy_fixed_mid':('q_yerm','shear','±','1.94 1.65 1.50 1.42 1.38'),
+'qy_fixed_mid':('q_yerm','shear','±','1.94 1.65 1.50 1.42 1.39'),
 'deflection_mid':('f_m','deflection','+','.0230 .0425 .0639 .0840 .1013'),
 }),
 'FF_x':(285,'F,S,F,S',ratios5,{

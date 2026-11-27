@@ -60,6 +60,35 @@ class CzernyTests(unittest.TestCase):
                 self.assertFalse(meta['interpolated'])
                 self.assertAlmostEqual(meta['table_value'], denominator)
 
+    def test_ff_y_qy_fixed_mid_matches_levy_series(self):
+        """FF_y q_yerm: the last digit of the 2.00 cell of p. 284 is lost at the binding.
+
+        Exact Levy series (simply supported x edges, clamped y edges, nu = 0):
+        Q_y at the clamped edge midpoint = p*lx / k. The printed row stays within
+        0.015 of k (Czerny's values are not exact: -0.012 at 1.55). At 2.00,
+        k = 1.387; 1.39 is used (k rounded, and the Greek reprint of the tables),
+        not the earlier transcription's 1.38.
+        """
+        def k(ratio):
+            q = 0.0
+            for m in range(1, 201, 2):
+                a = m * math.pi
+                be = a * ratio / 2
+                sh, ch = math.sinh(be), math.cosh(be)
+                c = 4 / (m * math.pi) ** 5
+                b = c * sh / (be + sh * ch)
+                a_m = -c * (sh + be * ch) / (be + sh * ch)
+                q -= (-1) ** ((m - 1) // 2) * a**3 * (a_m * sh + b * (3 * sh + be * ch))
+            return 1 / abs(q)
+
+        for i in range(21):
+            ratio = round(1 + 0.05 * i, 2)
+            with self.subTest(ratio=ratio):
+                _, meta = lookup('FF_y', ratio, 'qy_fixed_mid', table=self.table)
+                self.assertLess(abs(meta['table_value'] - k(ratio)), 0.015)
+        _, meta = lookup('FF_y', 2.0, 'qy_fixed_mid', table=self.table)
+        self.assertAlmostEqual(meta['table_value'], round(k(2.0), 2))
+
     def test_interpolate_only_between_005_knots(self):
         mid, meta = lookup('F_y0', 1.125, 'mx_mid', table=self.table)
         self.assertTrue(meta['interpolated'])

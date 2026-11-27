@@ -775,7 +775,7 @@ FF_y,1.80,qy_fixed_mid,q_yerm,shear,±,1.41,denominator,284,https://www.klancek.
 FF_y,1.85,qy_fixed_mid,q_yerm,shear,±,1.4,denominator,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
 FF_y,1.90,qy_fixed_mid,q_yerm,shear,±,1.4,denominator,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
 FF_y,1.95,qy_fixed_mid,q_yerm,shear,±,1.39,denominator,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
-FF_y,2.00,qy_fixed_mid,q_yerm,shear,±,1.38,denominator,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
+FF_y,2.00,qy_fixed_mid,q_yerm,shear,±,1.39,denominator,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
 FF_y,1.00,deflection_mid,f_m,deflection,+,0.023,multiplier,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
 FF_y,1.05,deflection_mid,f_m,deflection,+,0.0266,multiplier,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf
 FF_y,1.10,deflection_mid,f_m,deflection,+,0.0303,multiplier,284,https://www.klancek.si/sites/default/files/datoteke/files/tabele.pdf

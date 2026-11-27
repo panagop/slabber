@@ -113,6 +113,11 @@ validation of every printed coefficient. Some table entries are notably
 non-monotone; none has been silently smoothed. Check original page scans and
 source sketches before evaluating any real plate.
 
+Corrections: `FF_y` `qy_fixed_mid` at 2.00 is 1.39 (was 1.38). The last digit
+of that cell (p. 284) is lost at the binding; the exact Levy series gives
+1.387, and the Greek reprint of the tables prints 1.39
+(`test_ff_y_qy_fixed_mid_matches_levy_series`, 2026-11-27).
+
 ## Engineering limitations
 
 NOT engineering/design-certified. Assumes elastic plate behavior for the
